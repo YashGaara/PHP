@@ -1,0 +1,38 @@
+<?php
+$num=12;
+echo $num;
+echo "<br>";
+$float_num=3.4;
+echo $float_num;
+echo "<br>";
+$sum=7+5;
+echo $sum;
+echo "<br>";
+$last_month=1187.23;
+$this_month=1098;
+echo $last_month -  $this_month; 
+echo "<br>";
+$num_languages=4;
+$months=11;
+$days=$months*16;
+$days_per_language=$days/$num_languages;
+echo $days_per_language;
+echo "<br>";
+echo 8**2;
+echo "<br>";
+$students=82;
+$group_size=6;
+$remaining_students=$students % $group_size;
+echo $remaining_students;
+echo "<br>";
+echo (94 - 4.25 + 7 - 23.50 - 4.7 + 20 / 4);
+echo " $ </br>";
+$my_num=5;
+$answer=$my_num;
+$answer=$answer + 2;
+$answer=$answer * 2;
+$answer=$answer - 2;
+$answer=$answer / 2;
+$answer=$my_num-$my_num;
+echo $answer;
+?>
