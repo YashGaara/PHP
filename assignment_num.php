@@ -26,7 +26,7 @@ $remaining_students=$students % $group_size;
 echo $remaining_students;
 echo "<br>";
 echo (94 - 4.25 + 7 - 23.50 - 4.7 + 20 / 4);
-echo " $ </br>";
+echo " $ </br>";  
 $my_num=5;
 $answer=$my_num;
 $answer=$answer + 2;
